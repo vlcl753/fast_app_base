@@ -31,6 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  timeago: ^3.6.0
+
   #splash creator
   flutter_native_splash: ^2.3.0
 
@@ -109,9 +111,16 @@ flutter:
     - assets/image/
     - assets/image/icon/
     - assets/image/flag/
+    - assets/image/benefit/
     - assets/image/darkmode/
+    - assets/image/bank/
+    - assets/image/stock/
+    - assets/image/credit_card/
+    - assets/image/illustration/
+    - assets/image/notification/
     - assets/translations/
     - assets/
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
